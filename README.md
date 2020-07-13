@@ -4,7 +4,7 @@
 
 Ingeniero de Sistemas.
 
-Venezolano en Chile.
+Venezuelan in Chile.
 
 🔭 I’m currently working on Mekanosige.cl 
 
