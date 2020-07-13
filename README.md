@@ -3,6 +3,7 @@
 ## Jhon Wilchez
 
 Ingeniero de Sistemas.
+
 Venezolano en Chile.
 
 🔭 I’m currently working on Mekanosige.cl 
