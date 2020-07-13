@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Jhon Wilchez
+
+Ingeniero de Sistemas
+
 🔭 I’m currently working on Mekanosige.cl 
 
 
