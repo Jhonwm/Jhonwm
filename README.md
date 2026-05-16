@@ -1,12 +1,18 @@
-### Hi there 👋
+## 👋 Hola, soy Jhon Wilchez
 
-## Jhon Wilchez
+🧑‍💻 Ingeniero de Sistemas | Full Stack Developer  
+🇻🇪 Venezolano en 🇨🇱 Chile  
+💼 Trabajando en [Mekanosige.cl](https://mekanosige.cl)
 
-Ingeniero de Sistemas.
+### 🛠 Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
-Venezuelan in Chile.
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhonwm&show_icons=true)
 
-🔭 I’m currently working on Mekanosige.cl 
+📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/jhonwm/) | jhonwm@gmail.com
 
 
 <!--
